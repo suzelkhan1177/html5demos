@@ -1,4 +1,4 @@
-# HTML5 Demos and Examples
+# HTML5 Demos and Amazing Examples
 
 A collection of HTML5 experiments I've created, now open source and on GitHub, so please go ahead and help me hack this resource in to a wealth of demos that other authors can learn from.
 
